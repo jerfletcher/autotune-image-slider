@@ -14,7 +14,7 @@
     ],
     "form": {
       "schema": {
-        "title": "Autotune Image Slider",
+        "title": "Autotune Image Slider test",
         "description": "image slider",
         "type": "object",
         "properties": {
@@ -47,18 +47,18 @@
                 "required": true
               },
               "credit": {
-                "title": "<span style='color: #A9A9A9;'>Image Credit (Optional)</span>",
+                "title": "<span style='color: #A9A9A9;'>Image Credit (Optional) your mom</span>",
                 "type": "string"
               },
               "source": {
-                "title": "<span style='color: #A9A9A9;'>Image Credit Source URL (Optional)</span>",
+                "title": "<span style='color: #A9A9A9;'>Image whaaattt<span>",
                 "type": "string"
               }
             }
           },
           "tweet_text": {
             "title": "Tweet Text",
-            "description": "text for twitter",
+            "description": "text forthing thinger",
             "type": "string",
             "required": false
           },
