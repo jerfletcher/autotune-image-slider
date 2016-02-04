@@ -8,7 +8,7 @@ set :app_name, data.autotune.title
 
 set :title, data.autotune.title
 set :slug, data.autotune.slug
-set :meta_description, 'Autotune Image Slider'
+set :meta_description, 'Autotune Image Slider test'
 
 set :trailing_slashes, true
 
